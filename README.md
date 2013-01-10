@@ -10,9 +10,9 @@ rest_node
 ## Client
   Add the following lines to the head of your views:
   <pre><code>
-    \< script src="http://localhost:9000/socket.io/socket.io.js" \> \</script \>
-    <script type="text/javascript" src="js/script.js"></script>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    \<script src="http://localhost:9000/socket.io/socket.io.js"\>\</script\>
+    \<script type="text/javascript" src="js/script.js"\>\</script\>
+    \<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"\>\</script\>
   </code></pre>
   
   Make sure that your Stream Element contains the id "stream"
